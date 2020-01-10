@@ -1,0 +1,26 @@
+# Markdown基本语法
+[来源：Markdown 写作浅谈](https://mp.weixin.qq.com/s/HsPZLl60vjbEKEbT2HHH7A)
+>要写引用网址，就这么写 [] 再加个 ()，如 ：
+
+>[豆瓣](http://www.douban.com/)
+
+>要引用大段文字，就直接 > 后面写引用，如 ：
+
+>>习惯是人生最大的指导
+
+>要标识标题，就直接加 # 号，如：
+
+>## 标题二
+
+>### 标题三
+
+>要写列表，就直接 * ，分行下来，如：
+
+>* 分行一
+
+>* 分行二
+
+>要强调什么内容，直接在强调的内容前后加个 * 号，如：
+
+>**加粗的内容**
+[详细参考文档]{https://guides.github.com/features/mastering-markdown/}
